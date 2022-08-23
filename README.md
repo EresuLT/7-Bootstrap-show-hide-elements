@@ -1,6 +1,6 @@
 # 5-SASS-project
 
-Here is my 7th project. I've made this form by using HTML & CSS skills. Also I used bootstrap for styling my project. 
+Here is my 7th project. I've made this form by using HTML & CSS skills. Also I've used bootstrap for styling my project. 
 In this project, We have made this sizing project for learning how bootstrap show-hide codes changes our website's media visibility.
 I learned how to shape website with HTML and CSS codes and how to use bootstrap codes for websites.
 
